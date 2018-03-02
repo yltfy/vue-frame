@@ -32,11 +32,11 @@ export default {
 
 <style lang="stylus">
 @import '../../assets/css/mixin'
-.container
+#content,.container
   width 100%
   height 100%
-  padding-top 56px
+  /*padding-top 56px
   padding-left 120px
   padding-bottom 30px
-  overflow auto
+  overflow auto*/
 </style>
